@@ -19,3 +19,16 @@ helloWorld/target/
 .project
 .settings/
 *.classpath
+target/classes/spring/spring-context.xml
+target/classes/spring/spring-mvc.xml
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.xq.dz/helloWorld/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.xq.dz/helloWorld/pom.xml
+target/maven-archiver/pom.properties
+target/ROOT/view/helloWorld.jsp
+target/ROOT/view/helloWorld.jsp
+target/ROOT/WEB-INF/classes/spring/spring-context.xml
+target/ROOT/WEB-INF/classes/spring/spring-mvc.xml
+target/ROOT/WEB-INF/web.xml
+target/surefire-reports/com.xq.dz.helloWorld.AppTest.txt
+target/surefire-reports/TEST-com.xq.dz.helloWorld.AppTest.xml
