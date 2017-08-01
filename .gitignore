@@ -15,4 +15,7 @@
 hs_err_pid*
 
 
+helloWorld/target/
+.project
 .settings/
+*.classpath
