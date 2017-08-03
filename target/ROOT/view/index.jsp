@@ -4,9 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>index</title>
 </head>
 <body>
-	Hello World!!! Hello ${name }!!!
+	这是首页，如果想跳转到个人主页请点击下方按钮！
+	<form action="#" onsubmit="${pageContext.request.contextPath}/hello">
+		个人名：<input type="text" name="name"> <input type="submit"
+			value="跳转">
+	</form>
+
 </body>
 </html>
